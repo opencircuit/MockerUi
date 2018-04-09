@@ -1,0 +1,39 @@
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\bin\Release\MockerUi.exe.config
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\bin\Release\MockerUi.exe
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\bin\Release\MockerUi.pdb
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\bin\Release\MaterialSkin.dll
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\bin\Release\MetroFramework.Design.dll
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\bin\Release\MetroFramework.dll
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\bin\Release\MetroFramework.Fonts.dll
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\obj\Release\MockerUi.Configuration.resources
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\obj\Release\MockerUi.Properties.Resources.resources
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\obj\Release\MockerUi.csproj.GenerateResource.Cache
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\obj\Release\MockerUi.exe
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\obj\Release\MockerUi.pdb
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\obj\Release\MockerUi.csprojResolveAssemblyReference.cache
+F:\GitHub\MockerUi\MockerUi\bin\Release\MockerUi.exe.config
+F:\GitHub\MockerUi\MockerUi\bin\Release\MockerUi.exe
+F:\GitHub\MockerUi\MockerUi\bin\Release\MockerUi.pdb
+F:\GitHub\MockerUi\MockerUi\bin\Release\EntityFramework.dll
+F:\GitHub\MockerUi\MockerUi\bin\Release\EntityFramework.SqlServer.dll
+F:\GitHub\MockerUi\MockerUi\bin\Release\MaterialSkin.dll
+F:\GitHub\MockerUi\MockerUi\bin\Release\MetroFramework.Design.dll
+F:\GitHub\MockerUi\MockerUi\bin\Release\MetroFramework.dll
+F:\GitHub\MockerUi\MockerUi\bin\Release\MetroFramework.Fonts.dll
+F:\GitHub\MockerUi\MockerUi\bin\Release\System.Data.SQLite.dll
+F:\GitHub\MockerUi\MockerUi\bin\Release\System.Data.SQLite.EF6.dll
+F:\GitHub\MockerUi\MockerUi\bin\Release\System.Data.SQLite.Linq.dll
+F:\GitHub\MockerUi\MockerUi\bin\Release\EntityFramework.xml
+F:\GitHub\MockerUi\MockerUi\bin\Release\EntityFramework.SqlServer.xml
+F:\GitHub\MockerUi\MockerUi\bin\Release\System.Data.SQLite.xml
+F:\GitHub\MockerUi\MockerUi\bin\Release\System.Data.SQLite.dll.config
+F:\GitHub\MockerUi\MockerUi\obj\Release\MockerUi.csprojResolveAssemblyReference.cache
+F:\GitHub\MockerUi\MockerUi\obj\Release\MockerUi.csproj.ResolveComReference.cache
+F:\GitHub\MockerUi\MockerUi\obj\Release\MockerUi.ControlFileType.resources
+F:\GitHub\MockerUi\MockerUi\obj\Release\MockerUi.ControlListType.resources
+F:\GitHub\MockerUi\MockerUi\obj\Release\MockerUi.ControlPresetType.resources
+F:\GitHub\MockerUi\MockerUi\obj\Release\MockerUi.FormConfiguration.resources
+F:\GitHub\MockerUi\MockerUi\obj\Release\MockerUi.Properties.Resources.resources
+F:\GitHub\MockerUi\MockerUi\obj\Release\MockerUi.csproj.GenerateResource.Cache
+F:\GitHub\MockerUi\MockerUi\obj\Release\MockerUi.exe
+F:\GitHub\MockerUi\MockerUi\obj\Release\MockerUi.pdb

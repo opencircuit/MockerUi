@@ -1,0 +1,33 @@
+Application Version
+Boolean
+Capital City
+Color Name
+Color Hex Value
+Company Name
+Corporate Department
+Country
+Credit Card Issuer
+Credit Card Network
+Currency Name
+Currency Code
+Date
+Decimal
+Domain Name
+File Type
+File Extension
+Gender
+Genre
+Integer
+Job Title
+Language
+Language Code
+Latitude
+Longitude
+Military Time
+Name
+Time
+Time Zone
+Time Zone Name
+Vehicle Manufacturer
+Vehicle Model
+Week Day

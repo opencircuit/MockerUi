@@ -1,0 +1,67 @@
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\bin\Debug\MockerUi.exe.config
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\bin\Debug\MockerUi.exe
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\bin\Debug\MockerUi.pdb
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\bin\Debug\MaterialSkin.dll
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\obj\Debug\MockerUi.csprojResolveAssemblyReference.cache
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\obj\Debug\MockerUi.Properties.Resources.resources
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\obj\Debug\MockerUi.csproj.GenerateResource.Cache
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\obj\Debug\MockerUi.exe
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\obj\Debug\MockerUi.pdb
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\bin\Debug\MetroFramework.Design.dll
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\bin\Debug\MetroFramework.dll
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\bin\Debug\MetroFramework.Fonts.dll
+F:\Documents\VisualStudio Projects\MockerUi\MockerUi\bin\Debug\MockerUi.exe.config
+F:\Documents\VisualStudio Projects\MockerUi\MockerUi\bin\Debug\MockerUi.exe
+F:\Documents\VisualStudio Projects\MockerUi\MockerUi\bin\Debug\MockerUi.pdb
+F:\Documents\VisualStudio Projects\MockerUi\MockerUi\bin\Debug\MaterialSkin.dll
+F:\Documents\VisualStudio Projects\MockerUi\MockerUi\obj\Debug\MockerUi.Properties.Resources.resources
+F:\Documents\VisualStudio Projects\MockerUi\MockerUi\obj\Debug\MockerUi.csproj.GenerateResource.Cache
+F:\Documents\VisualStudio Projects\MockerUi\MockerUi\obj\Debug\MockerUi.exe
+F:\Documents\VisualStudio Projects\MockerUi\MockerUi\obj\Debug\MockerUi.pdb
+F:\Documents\VisualStudio Projects\MockerUi\MockerUi\obj\Debug\MockerUi.FormConfiguration.resources
+F:\Documents\VisualStudio Projects\MockerUi\MockerUi\bin\Debug\MetroFramework.dll
+F:\Documents\VisualStudio Projects\MockerUi\MockerUi\bin\Debug\MetroFramework.Fonts.dll
+F:\Documents\VisualStudio Projects\MockerUi\MockerUi\bin\Debug\MetroFramework.Design.dll
+F:\Documents\VisualStudio Projects\MockerUi\MockerUi\obj\Debug\MockerUi.csprojResolveAssemblyReference.cache
+F:\Documents\VisualStudio Projects\MockerUi\MockerUi\obj\Debug\MockerUi.ControlFileType.resources
+F:\Documents\VisualStudio Projects\MockerUi\MockerUi\obj\Debug\MockerUi.ControlListType.resources
+F:\Documents\VisualStudio Projects\MockerUi\MockerUi\obj\Debug\MockerUi.ControlPresetType.resources
+F:\GitHub\MockerUi\MockerUi\bin\Debug\MockerUi.exe.config
+F:\GitHub\MockerUi\MockerUi\bin\Debug\MockerUi.exe
+F:\GitHub\MockerUi\MockerUi\bin\Debug\MockerUi.pdb
+F:\GitHub\MockerUi\MockerUi\bin\Debug\MaterialSkin.dll
+F:\GitHub\MockerUi\MockerUi\bin\Debug\MetroFramework.Design.dll
+F:\GitHub\MockerUi\MockerUi\bin\Debug\MetroFramework.dll
+F:\GitHub\MockerUi\MockerUi\bin\Debug\MetroFramework.Fonts.dll
+F:\GitHub\MockerUi\MockerUi\obj\Debug\MockerUi.csprojResolveAssemblyReference.cache
+F:\GitHub\MockerUi\MockerUi\obj\Debug\MockerUi.ControlFileType.resources
+F:\GitHub\MockerUi\MockerUi\obj\Debug\MockerUi.ControlListType.resources
+F:\GitHub\MockerUi\MockerUi\obj\Debug\MockerUi.ControlPresetType.resources
+F:\GitHub\MockerUi\MockerUi\obj\Debug\MockerUi.FormConfiguration.resources
+F:\GitHub\MockerUi\MockerUi\obj\Debug\MockerUi.Properties.Resources.resources
+F:\GitHub\MockerUi\MockerUi\obj\Debug\MockerUi.csproj.GenerateResource.Cache
+F:\GitHub\MockerUi\MockerUi\obj\Debug\MockerUi.exe
+F:\GitHub\MockerUi\MockerUi\obj\Debug\MockerUi.pdb
+F:\GitHub\MockerUi\MockerUi\bin\Debug\EntityFramework.dll
+F:\GitHub\MockerUi\MockerUi\bin\Debug\EntityFramework.SqlServer.dll
+F:\GitHub\MockerUi\MockerUi\bin\Debug\System.Data.SQLite.dll
+F:\GitHub\MockerUi\MockerUi\bin\Debug\System.Data.SQLite.EF6.dll
+F:\GitHub\MockerUi\MockerUi\bin\Debug\System.Data.SQLite.Linq.dll
+F:\GitHub\MockerUi\MockerUi\bin\Debug\EntityFramework.xml
+F:\GitHub\MockerUi\MockerUi\bin\Debug\EntityFramework.SqlServer.xml
+F:\GitHub\MockerUi\MockerUi\bin\Debug\System.Data.SQLite.xml
+F:\GitHub\MockerUi\MockerUi\bin\Debug\System.Data.SQLite.dll.config
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\bin\Debug\EntityFramework.dll
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\bin\Debug\EntityFramework.SqlServer.dll
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\bin\Debug\System.Data.SQLite.dll
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\bin\Debug\System.Data.SQLite.EF6.dll
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\bin\Debug\System.Data.SQLite.Linq.dll
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\bin\Debug\EntityFramework.xml
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\bin\Debug\EntityFramework.SqlServer.xml
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\bin\Debug\System.Data.SQLite.xml
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\bin\Debug\System.Data.SQLite.dll.config
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\obj\Debug\MockerUi.ControlFileType.resources
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\obj\Debug\MockerUi.ControlListType.resources
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\obj\Debug\MockerUi.ControlPresetType.resources
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\obj\Debug\MockerUi.FormConfiguration.resources
+F:\GitHub\MockerUi\MockerUi\obj\Debug\MockerUi.csproj.ResolveComReference.cache
